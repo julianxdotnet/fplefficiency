@@ -1,0 +1,9 @@
+{
+  "name": "fpl-efficiency",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site: no build step'",
+    "check": "node --check public/app.js"
+  }
+}
